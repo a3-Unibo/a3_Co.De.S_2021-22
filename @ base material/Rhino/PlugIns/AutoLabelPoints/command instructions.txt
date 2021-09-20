@@ -1,0 +1,12 @@
+Once the plugin is installed, the command is:
+
+AutoLabelPoints
+
+before running the command, you should have some points in Rhino
+
+. run the command
+. select the points
+. select start index
+. input number prefix and suffix
+
+The resulting dots are placed as a group on the current layer, using the current dot properties for text font and size

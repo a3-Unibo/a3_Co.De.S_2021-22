@@ -1,0 +1,22 @@
+Plugin installation instructions
+
+. Windows
+
+double click on the .rhi file and follow the instructions
+
+---------------------------------------------------------------
+
+. Mac
+
+drag the .macrhi file onto the Rhino for Mac icon
+
+the plugin will be acive upon restarting Rhino
+
+If the installation is unsuccessful:
+
+1. rename the .rhi (or .macrhi) extension as .zip
+2. open the newly created .zip file
+3. extract the .rhp file - in mac it's inside an .rhp folder
+4. right click on the .rhp file, select Properties and check that the file is not locked. Unlock it if that's the case
+5. Drag the .rhp file into an open Rhino window
+6. Restart Rhino
