@@ -1,0 +1,1 @@
+! _Join _AlignMeshVertices _DistanceToAdjust=0.01 _EnterEnd _SelPrev _Weld 180 _Enter _SelPrev _UnifyMeshNormals
