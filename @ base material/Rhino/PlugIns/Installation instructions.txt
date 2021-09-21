@@ -1,22 +1,15 @@
 Plugin installation instructions
 
-. Windows
+. Option 1
 
-double click on the .rhi file and follow the instructions
+drag the .rhp files you an find in each directory into an open Rhino window
 
----------------------------------------------------------------
 
-. Mac
+. Option 2
 
-drag the .macrhi file onto the Rhino for Mac icon
+type _PackageManager in the Rhino command line and search for:
 
-the plugin will be acive upon restarting Rhino
+OrientPlugin
+AutolabelPoints
 
-If the installation is unsuccessful:
-
-1. rename the .rhi (or .macrhi) extension as .zip
-2. open the newly created .zip file
-3. extract the .rhp file - in mac it's inside an .rhp folder
-4. right click on the .rhp file, select Properties and check that the file is not locked. Unlock it if that's the case
-5. Drag the .rhp file into an open Rhino window
-6. Restart Rhino
+And install them
