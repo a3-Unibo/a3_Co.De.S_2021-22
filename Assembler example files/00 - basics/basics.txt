@@ -1,0 +1,5 @@
+. understand the basic principle for assemblages
+. construct an AssemblyObject
+. assembage with random criteria using one AssemblyObject
+. visualize collision geometry
+. visualize actual geometry in the assemblage (lo-res and final if necessary)
