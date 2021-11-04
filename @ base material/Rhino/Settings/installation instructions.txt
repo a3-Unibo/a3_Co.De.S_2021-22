@@ -1,0 +1,12 @@
+Display Modes
+
+In Rhino go to Tools > Options > View > Display Modes
+
+Click the Import button and select a .ini file (example: Rendered-Edges.ini) to import a display mode. The display mode should now appear in your Display Modes list and in the drop-down panel next to each view name (where you can select it).
+
+
+Rhino interface Palettes
+
+In Rhino go to Tools > Import Options and choose Rhino 7 dark.ini. In the following window, click on Select All and then Ok.
+
+Rhino should change its colors to a dark interface. If you want to restore the original colors, repeat the import options sequence with the Rhino 7 default.ini file.
