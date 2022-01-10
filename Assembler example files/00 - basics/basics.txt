@@ -3,3 +3,5 @@
 . assembage with random criteria using one AssemblyObject
 . visualize collision geometry
 . visualize actual geometry in the assemblage (lo-res and final if necessary)
+. internalize AssemblyObjects
+. save and retrieve AssemblyObjects via .ghdata files
