@@ -1,6 +1,6 @@
 Example files need the following plugins:
 
-. Assembler (of course)
+. Assembler (of course) - version 1.0.9 - files won't work with newer versions
 . Elefront
 . froGH
 . Human
